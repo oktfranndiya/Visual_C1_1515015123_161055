@@ -86,11 +86,11 @@ public class infrormasi extends javax.swing.JFrame {
         jLabel5.setForeground(new java.awt.Color(0, 0, 102));
         jLabel5.setText("WELCOME TO SMK NEGERI 7 SAMARINDA");
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\DQRQ.PNG")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/DQRQ.PNG"))); // NOI18N
 
-        jLabel8.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\GSG.PNG")); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/GSG.PNG"))); // NOI18N
 
-        jLabel9.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\qwq.PNG")); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/qwq.PNG"))); // NOI18N
 
         javax.swing.GroupLayout panelhomeLayout = new javax.swing.GroupLayout(panelhome);
         panelhome.setLayout(panelhomeLayout);
@@ -142,23 +142,23 @@ public class infrormasi extends javax.swing.JFrame {
         jLabel10.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel10.setText("VISI:");
 
-        jLabel11.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\1.PNG")); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/1.PNG"))); // NOI18N
 
         jLabel12.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel12.setText("MISI:");
 
-        jLabel13.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\DD.png")); // NOI18N
+        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/DD.png"))); // NOI18N
 
         jLabel14.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel14.setText("TUJUAN:");
 
-        jLabel15.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\3.PNG")); // NOI18N
+        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/3.PNG"))); // NOI18N
 
-        jLabel16.setIcon(new javax.swing.ImageIcon("D:\\PW\\logo\\KECILTKJ.png")); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/KECILTKJ.png"))); // NOI18N
 
-        jLabel17.setIcon(new javax.swing.ImageIcon("D:\\PW\\logo\\KECILRPL.png")); // NOI18N
+        jLabel17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/KECILRPL.png"))); // NOI18N
 
-        jLabel18.setIcon(new javax.swing.ImageIcon("D:\\PW\\logo\\KECILMM.png")); // NOI18N
+        jLabel18.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/KECILMM.png"))); // NOI18N
 
         jLabel30.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel30.setText("Memiliki 3 Jurusan yaitu :");
@@ -257,13 +257,13 @@ public class infrormasi extends javax.swing.JFrame {
         jLabel19.setForeground(new java.awt.Color(0, 0, 102));
         jLabel19.setText("GALLERY AND MEMORIES");
 
-        jLabel21.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\12.png")); // NOI18N
+        jLabel21.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/12.png"))); // NOI18N
 
-        jLabel22.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\IMG_4729.jpg")); // NOI18N
+        jLabel22.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/IMG_4729.jpg"))); // NOI18N
 
-        jLabel23.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\IMG_3634.jpg")); // NOI18N
+        jLabel23.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/IMG_3634.jpg"))); // NOI18N
 
-        jLabel24.setIcon(new javax.swing.ImageIcon("C:\\Users\\RARA\\Pictures\\netbeans\\IMG_4107.jpg")); // NOI18N
+        jLabel24.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/IMG_4107.jpg"))); // NOI18N
 
         javax.swing.GroupLayout panelgallLayout = new javax.swing.GroupLayout(panelgall);
         panelgall.setLayout(panelgallLayout);
@@ -322,7 +322,7 @@ public class infrormasi extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(0, 0, 102));
         jLabel2.setText("SMK NEGERI 7 SAMARINDA");
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\PW\\logo\\KECIL.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/posttest3/KECIL.png"))); // NOI18N
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 0, 102));

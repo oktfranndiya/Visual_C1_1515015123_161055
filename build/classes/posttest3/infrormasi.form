@@ -106,21 +106,21 @@
             <Component class="javax.swing.JLabel" name="jLabel4">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\DQRQ.PNG"/>
+                  <Image iconType="3" name="/posttest3/DQRQ.PNG"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel8">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\GSG.PNG"/>
+                  <Image iconType="3" name="/posttest3/GSG.PNG"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel9">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\qwq.PNG"/>
+                  <Image iconType="3" name="/posttest3/qwq.PNG"/>
                 </Property>
               </Properties>
             </Component>
@@ -256,7 +256,7 @@
             <Component class="javax.swing.JLabel" name="jLabel11">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\1.PNG"/>
+                  <Image iconType="3" name="/posttest3/1.PNG"/>
                 </Property>
               </Properties>
             </Component>
@@ -271,7 +271,7 @@
             <Component class="javax.swing.JLabel" name="jLabel13">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\DD.png"/>
+                  <Image iconType="3" name="/posttest3/DD.png"/>
                 </Property>
               </Properties>
             </Component>
@@ -286,28 +286,28 @@
             <Component class="javax.swing.JLabel" name="jLabel15">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\3.PNG"/>
+                  <Image iconType="3" name="/posttest3/3.PNG"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel16">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="D:\PW\logo\KECILTKJ.png"/>
+                  <Image iconType="3" name="/posttest3/KECILTKJ.png"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel17">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="D:\PW\logo\KECILRPL.png"/>
+                  <Image iconType="3" name="/posttest3/KECILRPL.png"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel18">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="D:\PW\logo\KECILMM.png"/>
+                  <Image iconType="3" name="/posttest3/KECILMM.png"/>
                 </Property>
               </Properties>
             </Component>
@@ -434,28 +434,28 @@
             <Component class="javax.swing.JLabel" name="jLabel21">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\12.png"/>
+                  <Image iconType="3" name="/posttest3/12.png"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel22">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\IMG_4729.jpg"/>
+                  <Image iconType="3" name="/posttest3/IMG_4729.jpg"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel23">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\IMG_3634.jpg"/>
+                  <Image iconType="3" name="/posttest3/IMG_3634.jpg"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel24">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\RARA\Pictures\netbeans\IMG_4107.jpg"/>
+                  <Image iconType="3" name="/posttest3/IMG_4107.jpg"/>
                 </Property>
               </Properties>
             </Component>
@@ -536,7 +536,7 @@
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="D:\PW\logo\KECIL.png"/>
+              <Image iconType="3" name="/posttest3/KECIL.png"/>
             </Property>
           </Properties>
         </Component>
